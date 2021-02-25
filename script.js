@@ -10,9 +10,9 @@ let boolean = true;
 //Take Home Challenge: Day One
 /*The above comment is a single line comment
 and this is a multi-line comment */
-const name = 'Michael';
+const myName = 'Michael';
 const food = 'Ramen';
-console.log(name, food);
+console.log(myName, food);
 
 // Complex/Containers (containers can contain other containers)
 const object = {

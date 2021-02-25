@@ -7,6 +7,13 @@ let string2 = "1";
 let string3 = `1`;
 let boolean = true;
 
+//Take Home Challenge: Day One
+/*The above comment is a single line comment
+and this is a multi-line comment */
+const name = 'Michael';
+const food = 'Ramen';
+console.log(name, food);
+
 // Complex/Containers (containers can contain other containers)
 const object = {
     myNumber: 1,

@@ -33,7 +33,7 @@ const array = [1, 'sample text', true]; //normally are lists of the same types o
 
 //let is a changeable variable, const variables are guaranteed to always refer to the same data
 
-console.log(number, string, string2, string3, boolean, object.username, array[1]);
+//console.log(number, string, string2, string3, boolean, object.username, array[1]);
 
 /* setTimeout(() => {
     document.body.innerHTML = `<h1 class="myH1" style="font-size: 100px;">Changed</h1>
